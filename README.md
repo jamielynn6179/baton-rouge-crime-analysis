@@ -55,3 +55,7 @@ Key cleaning steps included:
 ## Files Included
 - `baton_rouge_crime_analysis.ipynb` — Full analysis notebook
 - HTML export of completed notebook
+<img width="576" height="453" alt="Violent Crime Rate Comparison" src="https://github.com/user-attachments/assets/a98ef113-a6db-4b61-bf22-a210530e4a26" />
+<img width="790" height="490" alt="NBR vs BKT property, society, violent" src="https://github.com/user-attachments/assets/8fff68d9-0865-4785-b281-6c6bcda68980" />
+
+- 
